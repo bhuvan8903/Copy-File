@@ -30,9 +30,10 @@ with open("copy.txt",'w') as fp1:
 ```
 
 ### OUTPUT:
-[output](<Screenshot 2024-05-17 092943.png>) 
+![output](<Screenshot 2024-05-17 092943.png>) 
+
 ![OUTPUT](<Screenshot 2024-05-17 092840.png>) 
-!
+
 ![Output](<Screenshot 2024-05-17 092903.png>)
 
 ## RESULT:
